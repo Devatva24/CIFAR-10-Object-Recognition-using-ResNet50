@@ -46,8 +46,8 @@
 <h3>3. Training</h3>
 <ul>
   <li>Loss Function: Categorical Crossentropy</li>
-  <li>Optimizer: Adam</li>
-  <li>Metrics: Accuracy</li>
+  <li>Optimizer : Adam</li>
+  <li>Metrics : Accuracy</li>
   <li>EarlyStopping and ReduceLROnPlateau callbacks used</li>
 </ul>
 
